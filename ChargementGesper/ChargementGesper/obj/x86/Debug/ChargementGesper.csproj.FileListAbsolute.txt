@@ -1,0 +1,12 @@
+C:\VSProjetNazaire\ChargementGesper\ChargementGesper\bin\Debug\ChargementGesper.exe
+C:\VSProjetNazaire\ChargementGesper\ChargementGesper\bin\Debug\ChargementGesper.pdb
+C:\VSProjetNazaire\ChargementGesper\ChargementGesper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VSProjetNazaire\ChargementGesper\ChargementGesper\obj\x86\Debug\ChargementGesper.exe
+C:\VSProjetNazaire\ChargementGesper\ChargementGesper\obj\x86\Debug\ChargementGesper.pdb
+M:\MNazaire\Slam3\ChargementGesper\ChargementGesper\obj\x86\Debug\ChargementGesper.exe
+M:\MNazaire\Slam3\ChargementGesper\ChargementGesper\obj\x86\Debug\ChargementGesper.pdb
+M:\MNazaire\Slam3\ChargementGesper\ChargementGesper\bin\Debug\ChargementGesper.exe
+M:\MNazaire\Slam3\ChargementGesper\ChargementGesper\bin\Debug\ChargementGesper.pdb
+M:\MNazaire\Slam3\ChargementGesper\ChargementGesper\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\MNazaire\Slam3\ChargementGesper\ChargementGesper\bin\Debug\LibraryGesper.pdb
+M:\MNazaire\Slam3\ChargementGesper\ChargementGesper\bin\Debug\LibraryGesper.dll

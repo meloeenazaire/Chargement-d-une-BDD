@@ -1,0 +1,5 @@
+M:\MNazaire\Slam3\ChargementGesper\LibraryGesper\bin\Debug\LibraryGesper.dll
+M:\MNazaire\Slam3\ChargementGesper\LibraryGesper\bin\Debug\LibraryGesper.pdb
+M:\MNazaire\Slam3\ChargementGesper\LibraryGesper\obj\Debug\ResolveAssemblyReference.cache
+M:\MNazaire\Slam3\ChargementGesper\LibraryGesper\obj\Debug\LibraryGesper.dll
+M:\MNazaire\Slam3\ChargementGesper\LibraryGesper\obj\Debug\LibraryGesper.pdb

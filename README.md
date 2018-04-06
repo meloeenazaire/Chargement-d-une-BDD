@@ -4,13 +4,14 @@ Il est possible de charger une base de données à partir d'un programme C#. Ce 
 
 ### Squelette du code de la méthode afficher diplôme
 
- public void AfficherDiplomes()
+ *public void AfficherDiplomes()
         {
             Console.WriteLine("AFFICHAGE DES DIPLÔMES");
             foreach (Diplome d in lesDiplomes)
             {
                 Console.WriteLine(d);
             }
-        }
+        }*
+        
 ### Résultat sur la console
 ![Capturegesper.png](https://github.com/meloeenazaire/Chargement-d-une-BDD/blob/master/Capturegesper.PNG)

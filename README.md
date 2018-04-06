@@ -13,3 +13,4 @@ Il est possible de charger une base de données à partir d'un programme C#. Ce 
             }
         }
 ### Résultat sur la console
+![Capturegesper.png](https://github.com/meloeenazaire/Chargement-d-une-BDD/blob/master/Capturegesper.PNG)
